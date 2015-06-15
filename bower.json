@@ -1,0 +1,17 @@
+{
+  "name": "raluca-bower-test",
+  "version": "1.0.0",
+  "authors": [
+    "Raluca Grigoras <raluca.grigoras@luminis.eu>"
+  ],
+  "description": "This is the test package",
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
